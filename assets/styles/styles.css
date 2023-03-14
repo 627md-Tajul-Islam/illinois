@@ -267,6 +267,89 @@
 }
 /* #penny(fc46f0837824a227) #css ends  */
 
+/* #tiku(f0fa53f7910a954c) #css starts  */
+.testimonialf0fa53f7910a954c #testimonial {
+    color: #000;
+    overflow-x: hidden;
+    height: 80%;
+    background-repeat: no-repeat
+}
+
+.testimonialf0fa53f7910a954c .card {
+    box-shadow: 0px 4px 8px 0px #BDBDBD
+}
+
+.testimonialf0fa53f7910a954c .profile-pic {
+    width: 100px !important;
+    height: 100px;
+    box-shadow: 0px 4px 8px 0px #BDBDBD
+}
+
+.testimonialf0fa53f7910a954c .owl-carousel .owl-nav button.owl-next, 
+.testimonialf0fa53f7910a954c .owl-carousel .owl-nav button.owl-prev {
+    background: 0 0;
+    color: #1E88E5 !important;
+    border: none;
+    padding: 5px 20px !important;
+    font: inherit;
+    font-size: 50px !important
+}
+
+.testimonialf0fa53f7910a954c .owl-carousel .owl-nav button.owl-next:hover, 
+.testimonialf0fa53f7910a954c .owl-carousel .owl-nav button.owl-prev:hover {
+    color: #0D47A1 !important;
+    background-color: transparent !important
+}
+
+.testimonialf0fa53f7910a954c .owl-dots {
+    display: none
+}
+
+.testimonialf0fa53f7910a954c button:focus {
+    -moz-box-shadow: none !important;
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+    outline-width: 0
+}
+
+.testimonialf0fa53f7910a954c .item {
+    display: none
+}
+
+.testimonialf0fa53f7910a954c .next {
+    display: block !important;
+    position: relative;
+    transform: scale(0.8);
+    transition-duration: 0.3s;
+    opacity: 0.6
+}
+
+.testimonialf0fa53f7910a954c .prev {
+    display: block !important;
+    position: relative;
+    transform: scale(0.8);
+    transition-duration: 0.3s;
+    opacity: 0.6
+}
+
+.testimonialf0fa53f7910a954c .item.show {
+    display: block;
+    transition-duration: 0.4s
+}
+
+@media screen and (max-width: 999px) {
+    .testimonialf0fa53f7910a954c .next, 
+    .testimonialf0fa53f7910a954c .prev {
+        transform: scale(1);
+        opacity: 1
+    }
+
+    .testimonialf0fa53f7910a954c .item {
+        display: block !important
+    }
+}
+/* #tiku(f0fa53f7910a954c) #css ends  */
+
 
 
 
