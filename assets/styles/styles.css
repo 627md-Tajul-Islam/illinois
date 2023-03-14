@@ -97,9 +97,56 @@
 
     /* #canon(c724c807cc8b8e9ab) #css ends  */
 
+    /* #quick(q0c8d3826c0d518b0) #css starts  */
+    .quickLinkq0c8d3826c0d518b0 .flex-container {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        gap: 20px;
+        justify-content: center;
+        padding-top: 30px;
+        padding-bottom: 60px
+    }
+
+    .quickLinkq0c8d3826c0d518b0 .quicklink {
+        height: 50px;
+        width: 210px;
+        font-size: 15px;
+        font-weight: 400;
+        color: dimgrey;
+        background-color: white;
+        border: 1px solid DimGrey;
+        border-radius: 50px
+    }
+
+    .quickLinkq0c8d3826c0d518b0 .quicklink a {
+        text-decoration: none;
+        color: DimGrey;
+        font-weight: 600
+    }
 
 
+    .quickLinkq0c8d3826c0d518b0 .quicklink:hover {
+        background-color: Dodgerblue;
+        border: 2px solid #2091f7
+    }
 
+    .quickLinkq0c8d3826c0d518b0 .quicklink:hover a {
+        color: white
+    }
+
+    .quickLinkq0c8d3826c0d518b0 .quicklink_2:hover a {
+        color: white
+    }
+
+    .quickLinkq0c8d3826c0d518b0 i {
+        padding-right: 15px
+    }
+
+    /* #quick(q0c8d3826c0d518b0) #css ends  */
+
+
+    
 
 
 
