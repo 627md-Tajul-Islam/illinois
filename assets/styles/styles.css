@@ -193,11 +193,79 @@
 
     /* #pen(cb870d00581aabe8) #css ends  */
 
+    /* #abigail(d0307869eee88f2c) #css starts  */
+    .aboutd0307869eee88f2c  .DescriptionHeading {
+        font-size: 50px
+    }
 
+    .aboutd0307869eee88f2c .DescriptionPara {
+        font-size: 20px
+    }
 
+    .aboutd0307869eee88f2c .DescriptionButton button {
+        font-size: 18px;
+        background-color: aqua;
+        outline: none;
+        border: none
+    }
+    .aboutd0307869eee88f2c .descriptionImage img{
+        height: 400px;
+        width: 500px
+    }
+    .aboutd0307869eee88f2c .jumbotron{
+        margin-left: 10px;
+    }
+    @media (min-width: 992px) {
+        /* CSS code for big screens goes here */
+      }
+      
+    /* #abigail(d0307869eee88f2c) #css ends  */
 
+    /* #again(a89d3c75425eb6266) #css starts  */
+    .abouta89d3c75425eb6266 .DescriptionHeading {
+        font-size: 50px
+    }
 
+    .abouta89d3c75425eb6266 .DescriptionPara {
+        font-size: 20px
+    }
 
+    .abouta89d3c75425eb6266 .DescriptionButton button {
+        font-size: 18px;
+        background-color: aqua;
+        outline: none;
+        border-radius: 10px;
+        border: none
+    }
+
+    .abouta89d3c75425eb6266 .descriptionImage img {
+        height: 400px;
+        border-radius: 40px;
+        width: 500px
+    }
+
+    .abouta89d3c75425eb6266 .list {
+        font-size: 20px;
+        list-style: none;
+        font-weight: bold
+    }
+    @media (min-width: 992px) {
+        .abouta89d3c75425eb6266  .marginLeft{
+            
+                margin-left: 80px;
+            
+        }
+      }
+
+    /* #again(a89d3c75425eb6266) #css ends  */
+
+/* #penny(fc46f0837824a227) #css starts  */
+.productsfc46f0837824a227 h4{
+    font-size: 40px;
+    color: #89839D;
+    margin-bottom: 20px
+}
+/* #penny(fc46f0837824a227) #css ends  */
 
 
 
